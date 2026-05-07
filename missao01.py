@@ -22,7 +22,7 @@ class Rectangle:
             (-width / 2, -height / 2)   # v3
         ]
 
-        # Índices dos triângulos
+        # Índices
         self.indices = [
             0, 1, 2,
             2, 3, 0
